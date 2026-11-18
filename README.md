@@ -1,5 +1,5 @@
 # Hi there, I'm Nurbol Koshkarbayev 👋
-**PhD in Mathematics & Computational Modeling | R&D Algorithm Developer**
+**PhD in Mathematics and Computer Modeling | R&D Algorithm Developer**
 
 I bridge the gap between complex mathematical theory and production-ready Python code. Currently based at Ghent University, I specialize in numerical solutions for nonlinear Partial Differential Equations (PDEs), Physics-Informed Neural Networks (PINNs), and computational modeling.
 
